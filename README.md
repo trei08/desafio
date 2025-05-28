@@ -1,6 +1,6 @@
 # Projeto de Cadastro
 
-**Por:** Treicy Mara de Paula Zambilo
+**Estagiária:** Treicy Mara de Paula Zambilo
 
 ## O que é?
 
@@ -22,8 +22,7 @@ Um sistema simples para cadastrar pessoas. Foi um desafio da Compass UOL AWS.
 
 ## O que aprendi?
 
-- Como usar JavaScript para salvar dados
-- Como fazer um formulário funcionar
+- Como fazer um pequeno crud de cadastro de pessoas usando Js!
 - Como usar o Git/GitHub (ainda estou aprendendo!)
 
 ## Dificuldades
